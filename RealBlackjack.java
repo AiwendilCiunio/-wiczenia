@@ -15,7 +15,7 @@ public class RealBlackjack {
 
         Scanner keyboard = new Scanner(System.in);
 
-        String a;
+        String a, b;
         int p1, p2, d1, d2, psum, dsum;
         p1 = randomize();
         p2 = randomize();
